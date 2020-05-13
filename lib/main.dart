@@ -8,8 +8,8 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.teal,
         appBar: AppBar(
-          title: Text('Dicee'),
-          backgroundColor: Colors.teal, 
+          title: Text('Roll the dice'),
+          backgroundColor: Colors.teal,
         ),
         body: DicePage(),
       ),
